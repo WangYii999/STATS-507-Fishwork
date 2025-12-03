@@ -1,0 +1,8 @@
+{
+  "t5_beam_compare": "final_package copy\\report_images\\t5_beam_compare.png",
+  "t5_beam_1_2_4": "final_package copy\\report_images\\t5_beam_1_2_4.png",
+  "baselines_compare": "final_package copy\\report_images\\baselines_compare.png",
+  "train_gradnorm": "final_package copy\\report_images\\train_gradnorm.png",
+  "t5_len_compare": "final_package copy\\report_images\\t5_len_compare.png",
+  "copied": []
+}
